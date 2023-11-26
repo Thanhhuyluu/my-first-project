@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>icon/3994382_access_close_exit_logout_sign out_icon.png</file>
+        <file>icon/Logout.png</file>
+        <file>icon/Menu.png</file>
+        <file>icon/Search_icon.png</file>
+        <file>icon/User_img.png</file>
+        <file>icon/discovery.png</file>
+        <file>icon/setting.png</file>
+        <file>icon/My_booking.png</file>
+        <file>icon/dashboard.png</file>
+        <file>icon/user.png</file>
+    </qresource>
+    <qresource prefix="/img">
+        <file>img/background.jpg</file>
+    </qresource>
+    <qresource prefix="/movie_img">
+        <file>movie_img/iron_man.jpg</file>
+    </qresource>
+</RCC>
